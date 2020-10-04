@@ -7,18 +7,18 @@
 		"almaMater":"vocab:almaMater",
 		"parentsName":"vocab:parentsName",
 		"subjects":"vocab:subjects",
-		"name":"subjects:name",
+		"subName":"subjects:subName",
 		"teachers":"subjects:teachers",
 		"description":"subjects:description"
 	},
-	"@id":" http://example.com/semweb/people/",
+	"@id":"http://example.com/semweb/people/",
 	"@type":"vocab:people",
 	"name":"Manuel Mazarro Vicente",
 	"homeTown":"Puertollano",
 	"age":"22",
 	"almaMater":"UPM",
 	"parentsName": ["Manuel","Encarnacion"],
-	"subjets":
+	"subjects":
 	[
 		{
             "subject":"Semantic Web and Linked data",
